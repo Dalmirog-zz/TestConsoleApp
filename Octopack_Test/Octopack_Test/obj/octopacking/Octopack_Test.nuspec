@@ -1,17 +1,16 @@
 <package>
   <metadata>
     <id>Octopack_Test</id>
-    <version>1.0.3</version>
+    <version>1.0.0.0</version>
     <authors>dalmiro.granias</authors>
     <owners>dalmiro.granias</owners>
     <licenseUrl>http://example.com</licenseUrl>
     <projectUrl>http://example.com</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>The Octopack_Test deployment package, built on 11/21/2016</description>
+    <description>The Octopack_Test deployment package, built on 2/15/2017</description>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
-    <file src="C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\[MyFile].txt" target="[MyFile].txt" />
     <file src="C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.exe.config" target="Octopack_Test.exe.config" />
     <file src="C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.exe" target="Octopack_Test.exe" />
     <file src="C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.pdb" target="Octopack_Test.pdb" />
