@@ -36,7 +36,6 @@
     <RunOctoPack>true</RunOctoPack>
     <OctopackPublishPackageToHttp>http://localhost:82/nuget/packages</OctopackPublishPackageToHttp>
     <OctopackPublishAPIKey>API-B3ZK7BTFAKSKRTCHQFKAZNPT5Y</OctopackPublishAPIKey>
-    <OctopackNugetPushProperties>-Tiasdasdmeout 500</OctopackNugetPushProperties>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
