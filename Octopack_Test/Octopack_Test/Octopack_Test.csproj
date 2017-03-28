@@ -32,12 +32,15 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <!--
   <PropertyGroup>
     <RunOctoPack>true</RunOctoPack>
     <OctopackPublishPackageToHttp>http://localhost:82/nuget/packages</OctopackPublishPackageToHttp>
     <OctopackPublishAPIKey>API-B3ZK7BTFAKSKRTCHQFKAZNPT5Y</OctopackPublishAPIKey>
   </PropertyGroup>
+    -->
   <ItemGroup>
+
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Octopack_Test"
+    "\\Octopack_Test",
+    "\\Octopack_Test\\Octopack_Test"
   ],
-  "SelectedNode": "\\Octopack_Test\\Octopack_Test.sln",
+  "SelectedNode": "\\Octopack_Test\\Octopack_Test",
   "PreviewInSolutionExplorer": false
 }
