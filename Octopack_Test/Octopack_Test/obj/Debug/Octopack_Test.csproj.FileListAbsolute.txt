@@ -1,5 +1,0 @@
-C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.exe.config
-C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.exe
-C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\bin\Debug\Octopack_Test.pdb
-C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\obj\Debug\Octopack_Test.exe
-C:\Github\Octopack_Test\Octopack_Test\Octopack_Test\obj\Debug\Octopack_Test.pdb
